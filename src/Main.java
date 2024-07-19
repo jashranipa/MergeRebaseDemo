@@ -16,5 +16,6 @@ public class Main {
             System.out.println("Master changes - 2");
         }
         System.out.println("Master changes - 3");
+        System.out.println("Master changes - 4");
     }
 }
