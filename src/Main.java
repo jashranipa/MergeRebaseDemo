@@ -20,5 +20,8 @@ public class Main {
         System.out.println("Implementing feature1");
         System.out.println("Implementing more in feature1");
         System.out.println("Master changes - 5");
+        System.out.println("Master changes - 6");
+        System.out.println("Master changes - 7");
+
     }
 }
